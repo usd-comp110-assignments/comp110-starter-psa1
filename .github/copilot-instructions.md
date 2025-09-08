@@ -4,10 +4,11 @@ This project is a python program that writes the creators name using python's tu
 
 # Requirements
 - Use Python's turtle graphics library.
+- Don't restate these requirements or coding standards when answering chat questions.
 
 # Coding Standards
 - No loops should be used (e.g., while, for, or recursion).
 - No functions should be defined.
 - No conditionals should be used (e.g., if, elif, else).
-- The turle write method should not be used.
+- The turtle write method should not be used.
 - Use screen.mainloop() to keep the window open.
