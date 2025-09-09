@@ -12,3 +12,4 @@ This project is a python program that writes the creators name using python's tu
 - No conditionals should be used (e.g., if, elif, else).
 - The turtle write method should not be used.
 - Use screen.mainloop() to keep the window open.
+- Comments should not be overly verbose.
