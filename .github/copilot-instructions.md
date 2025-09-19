@@ -13,3 +13,7 @@ This project is a python program that writes the creators name using python's tu
 - The turtle write method should not be used.
 - Use screen.mainloop() to keep the window open.
 - Comments should not be overly verbose.
+- Do not use list comprehension.
+- Do not use ternary operators.
+- Do not use try except blocks.
+- Do not make custom exceptions.
